@@ -1,0 +1,11 @@
+/home/ubuntu/ros2_ws/build/pubsub_simple/CMakeFiles/uninstall.dir
+/home/ubuntu/ros2_ws/build/pubsub_simple/CMakeFiles/pubsub_simple_uninstall.dir
+/home/ubuntu/ros2_ws/build/pubsub_simple/CMakeFiles/publisher.dir
+/home/ubuntu/ros2_ws/build/pubsub_simple/CMakeFiles/subscriber.dir
+/home/ubuntu/ros2_ws/build/pubsub_simple/CMakeFiles/test.dir
+/home/ubuntu/ros2_ws/build/pubsub_simple/CMakeFiles/edit_cache.dir
+/home/ubuntu/ros2_ws/build/pubsub_simple/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/ros2_ws/build/pubsub_simple/CMakeFiles/list_install_components.dir
+/home/ubuntu/ros2_ws/build/pubsub_simple/CMakeFiles/install.dir
+/home/ubuntu/ros2_ws/build/pubsub_simple/CMakeFiles/install/local.dir
+/home/ubuntu/ros2_ws/build/pubsub_simple/CMakeFiles/install/strip.dir

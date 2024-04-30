@@ -1,0 +1,17 @@
+/home/ubuntu/ros2_ws/install/pubsub_simple/lib/pubsub_simple/publisher
+/home/ubuntu/ros2_ws/install/pubsub_simple/lib/pubsub_simple/subscriber
+/home/ubuntu/ros2_ws/install/pubsub_simple/share/ament_index/resource_index/package_run_dependencies/pubsub_simple
+/home/ubuntu/ros2_ws/install/pubsub_simple/share/ament_index/resource_index/parent_prefix_path/pubsub_simple
+/home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/environment/ament_prefix_path.sh
+/home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/environment/ament_prefix_path.dsv
+/home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/environment/path.sh
+/home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/environment/path.dsv
+/home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/local_setup.bash
+/home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/local_setup.sh
+/home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/local_setup.zsh
+/home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/local_setup.dsv
+/home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/package.dsv
+/home/ubuntu/ros2_ws/install/pubsub_simple/share/ament_index/resource_index/packages/pubsub_simple
+/home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/cmake/pubsub_simpleConfig.cmake
+/home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/cmake/pubsub_simpleConfig-version.cmake
+/home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/package.xml

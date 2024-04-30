@@ -1,0 +1,76 @@
+[0.125s] Invoking command in '/home/ubuntu/ros2_ws/build/pubsub_simple': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ubuntu/ros2_ws/src/pubsub_simple -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ros2_ws/install/pubsub_simple
+[0.914s] -- The C compiler identification is GNU 11.4.0
+[1.455s] -- The CXX compiler identification is GNU 11.4.0
+[1.479s] -- Detecting C compiler ABI info
+[1.792s] -- Detecting C compiler ABI info - done
+[1.803s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.804s] -- Detecting C compile features
+[1.806s] -- Detecting C compile features - done
+[1.812s] -- Detecting CXX compiler ABI info
+[1.934s] -- Detecting CXX compiler ABI info - done
+[1.942s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.942s] -- Detecting CXX compile features
+[1.943s] -- Detecting CXX compile features - done
+[1.979s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.240s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[2.424s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.544s] -- Found rclcpp: 16.0.6 (/opt/ros/humble/share/rclcpp/cmake)
+[2.737s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.754s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.784s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.833s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.878s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.059s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.069s] -- Found rmw_fastrtps_cpp: 6.2.4 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[3.324s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[3.376s] -- Found FastRTPS: /opt/ros/humble/include  
+[3.457s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.487s] -- Looking for pthread.h
+[3.707s] -- Looking for pthread.h - found
+[3.709s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.877s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[3.879s] -- Found Threads: TRUE  
+[4.195s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.384s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.386s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.386s] -- Configured cppcheck include dirs: 
+[4.386s] -- Configured cppcheck exclude dirs and/or files: 
+[4.388s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[4.388s] -- Configured cpplint exclude dirs and/or files: 
+[4.391s] -- Added test 'lint_cmake' to check CMake code style
+[4.395s] -- Added test 'uncrustify' to check C / C++ code style
+[4.395s] -- Configured uncrustify additional arguments: 
+[4.397s] -- Added test 'xmllint' to check XML markup files
+[4.403s] -- Configuring done
+[4.435s] -- Generating done
+[4.438s] -- Build files have been written to: /home/ubuntu/ros2_ws/build/pubsub_simple
+[4.452s] Invoked command in '/home/ubuntu/ros2_ws/build/pubsub_simple' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ubuntu/ros2_ws/src/pubsub_simple -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ros2_ws/install/pubsub_simple
+[4.455s] Invoking command in '/home/ubuntu/ros2_ws/build/pubsub_simple': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ros2_ws/build/pubsub_simple -- -j8 -l8
+[4.510s] [ 25%] [32mBuilding CXX object CMakeFiles/publisher.dir/src/publisher.cpp.o[0m
+[4.512s] [ 50%] [32mBuilding CXX object CMakeFiles/subscriber.dir/src/subscriber.cpp.o[0m
+[23.300s] [ 75%] [32m[1mLinking CXX executable publisher[0m
+[23.752s] [ 75%] Built target publisher
+[29.765s] [100%] [32m[1mLinking CXX executable subscriber[0m
+[30.311s] [100%] Built target subscriber
+[30.361s] Invoked command in '/home/ubuntu/ros2_ws/build/pubsub_simple' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ros2_ws/build/pubsub_simple -- -j8 -l8
+[30.455s] Invoking command in '/home/ubuntu/ros2_ws/build/pubsub_simple': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ros2_ws/build/pubsub_simple
+[30.474s] -- Install configuration: ""
+[30.477s] -- Execute custom install script
+[30.482s] -- Symlinking: /home/ubuntu/ros2_ws/install/pubsub_simple/lib/pubsub_simple/publisher
+[30.494s] -- Symlinking: /home/ubuntu/ros2_ws/install/pubsub_simple/lib/pubsub_simple/subscriber
+[30.510s] -- Symlinking: /home/ubuntu/ros2_ws/install/pubsub_simple/share/ament_index/resource_index/package_run_dependencies/pubsub_simple
+[30.522s] -- Symlinking: /home/ubuntu/ros2_ws/install/pubsub_simple/share/ament_index/resource_index/parent_prefix_path/pubsub_simple
+[30.539s] -- Symlinking: /home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/environment/ament_prefix_path.sh
+[30.551s] -- Symlinking: /home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/environment/ament_prefix_path.dsv
+[30.564s] -- Symlinking: /home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/environment/path.sh
+[30.575s] -- Symlinking: /home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/environment/path.dsv
+[30.587s] -- Symlinking: /home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/local_setup.bash
+[30.599s] -- Symlinking: /home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/local_setup.sh
+[30.611s] -- Symlinking: /home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/local_setup.zsh
+[30.622s] -- Symlinking: /home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/local_setup.dsv
+[30.637s] -- Symlinking: /home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/package.dsv
+[30.651s] -- Symlinking: /home/ubuntu/ros2_ws/install/pubsub_simple/share/ament_index/resource_index/packages/pubsub_simple
+[30.661s] -- Symlinking: /home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/cmake/pubsub_simpleConfig.cmake
+[30.674s] -- Symlinking: /home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/cmake/pubsub_simpleConfig-version.cmake
+[30.690s] -- Symlinking: /home/ubuntu/ros2_ws/install/pubsub_simple/share/pubsub_simple/package.xml
+[30.717s] Invoked command in '/home/ubuntu/ros2_ws/build/pubsub_simple' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ros2_ws/build/pubsub_simple

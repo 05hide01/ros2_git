@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/ubuntu/ros2_ws/build/pubsub_simple/publisher" "/home/ubuntu/ros2_ws/build/pubsub_simple/subscriber" "TARGETS" "publisher" "subscriber" "DESTINATION" "lib/pubsub_simple")
